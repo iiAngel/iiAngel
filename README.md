@@ -3,10 +3,7 @@
 - He/Him
 - Translator / Programmer
 
-## Programming Languages
-
-- Lua
-- JS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiAngel)](https://github.com/iiAngel/github-readme-stats)
 
 ## My Stats
 
